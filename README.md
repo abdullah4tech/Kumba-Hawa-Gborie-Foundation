@@ -82,5 +82,3 @@ This project is licensed under the [Your License Name] License - see the [LICENS
 
 ## Contact
 If you have any questions or need further assistance, feel free to contact us at abdullahmu4life@gmail.com.
-
-Thank you for your interest and support in [Your Charity Organization Name]!
