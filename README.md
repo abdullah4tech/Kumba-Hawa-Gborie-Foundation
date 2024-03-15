@@ -80,5 +80,3 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a 
 
 This project is licensed under the [Your License Name] License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Contact
-If you have any questions or need further assistance, feel free to contact us at abdullahmu4life@gmail.com.
